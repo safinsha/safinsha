@@ -38,9 +38,6 @@
 - 🧬 **Prévention d’Alzheimer** – Analyse de données de santé sur **GCP** pour identifier des facteurs de risque, avec l’objectif de renforcer la prévention et réduire l’impact sanitaire et économique de la maladie. *(Projet Le Wagon)*  
 - 🔮 **Projets à venir** – Exploration de thématiques liées à la **psychologie** et la **santé mentale**  
 
-👉 Les projets complets seront disponibles dans ce repo : [Portfolio Data](#) *(lien à venir)*  
-
----
 
 ## 🌐 Me retrouver
 - 💼 [LinkedIn](https://www.linkedin.com/in/safin-shahed-6b3549111/)  
