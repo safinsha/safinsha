@@ -15,22 +15,22 @@
 ## 🛠️ Compétences principales
 
 **Langages :**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="32" height="32"/> Python (pandas)  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="BigQuery / GCP" width="32" height="32"/> SQL (BigQuery)  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> Python (pandas)  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="BigQuery / GCP" width="40" height="40"/> SQL (BigQuery)  
 
 **Data Stack :**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fivetran/fivetran-original.svg" alt="Fivetran" width="32" height="32"/> Fivetran  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbt/dbt-original.svg" alt="dbt" width="32" height="32"/> dbt  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="32" height="32"/> Google Cloud Platform  
+<img src="https://www.vectorlogo.zone/logos/fivetran/fivetran-icon.svg" alt="Fivetran" width="40" height="40"/> Fivetran  
+<img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="40" height="40"/> dbt  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/> Google Cloud Platform  
 
 **Visualisation / Apps :**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="32" height="32"/> Power BI  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/looker/looker-original.svg" alt="Looker" width="32" height="32"/> Looker  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="Plotly" width="32" height="32"/> Plotly Express  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="32" height="32"/> Matplotlib  
+<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> Power BI  
+<img src="https://www.vectorlogo.zone/logos/looker/looker-icon.svg" alt="Looker" width="40" height="40"/> Looker  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="Plotly" width="40" height="40"/> Plotly Express  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> Matplotlib  
 
 **Machine Learning :**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="32" height="32"/> scikit-learn — Régression & clustering  
+<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="40" height="40"/> scikit-learn — Régression & clustering  
 
 ---
 
