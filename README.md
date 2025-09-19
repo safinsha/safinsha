@@ -13,23 +13,24 @@
 ---
 
 ## 🛠️ Compétences principales
+
 **Langages :**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-BigQuery-4285F4?logo=googlebigquery&logoColor=white)  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="32" height="32"/> Python (pandas)  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="BigQuery / GCP" width="32" height="32"/> SQL (BigQuery)  
 
 **Data Stack :**  
-![Fivetran](https://img.shields.io/badge/Fivetran-2C6DF5?logo=fivetran&logoColor=white)  
-![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)  
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fivetran/fivetran-original.svg" alt="Fivetran" width="32" height="32"/> Fivetran  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbt/dbt-original.svg" alt="dbt" width="32" height="32"/> dbt  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="32" height="32"/> Google Cloud Platform  
 
 **Visualisation / Apps :**  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=white)  
-![Looker](https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=white)  
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?logo=python&logoColor=white)  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="32" height="32"/> Power BI  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/looker/looker-original.svg" alt="Looker" width="32" height="32"/> Looker  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="Plotly" width="32" height="32"/> Plotly Express  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="32" height="32"/> Matplotlib  
 
 **Machine Learning :**  
-Régression, clustering, scikit-learn  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="32" height="32"/> scikit-learn — Régression & clustering  
 
 ---
 
