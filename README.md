@@ -20,12 +20,12 @@
 
 **Data Stack :**  
 <img src="https://www.vectorlogo.zone/logos/fivetran/fivetran-icon.svg" alt="Fivetran" width="40" height="40"/> Fivetran  
-<img src="https://www.svgrepo.com/show/353904/dbt.svg" alt="dbt" width="40" height="40"/> dbt
+<img src="https://www.vectorlogo.zone/logos/dbt-labs/dbt-labs-icon.svg" alt="dbt" width="40" height="40"/> dbt  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/> Google Cloud Platform  
 
 **Visualisation / Apps :**  
 <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> Power BI  
-<img src="https://www.vectorlogo.zone/logos/lookerstudio/lookerstudio-icon.svg" alt="Looker Studio" width="40" height="40"/> Looker Studio  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/looker/looker-original.svg" alt="Looker" width="40" height="40"/> Looker  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="Plotly" width="40" height="40"/> Plotly Express  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> Matplotlib  
 
