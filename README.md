@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est *Safin*  
 
-🎯 *Du doute au Data Engineer de demain*  
+*🎯 En route pour devenir Data Engineer, avec détermination et passion !*  
 
 ---
 
