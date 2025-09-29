@@ -35,7 +35,8 @@
 ---
 
 ## 📂 Projets
-- 🧬 **Prévention d’Alzheimer** – Analyse de données de santé sur **GCP** pour identifier des facteurs de risque, avec l’objectif de renforcer la prévention et réduire l’impact sanitaire et économique de la maladie. *(Projet Le Wagon)*  
+- 🧬 **Prévention d’Alzheimer** – Analyse de données de santé sur **GCP** pour identifier des facteurs de risque, avec l’objectif de renforcer la prévention et réduire l’impact sanitaire et économique de la maladie. *(Projet Le Wagon)*
+- 🎮 **PIU PIU Project** - Identifier la combinaison optimale de plateforme, genre, localisation et politique de prix pour maximiser le potentiel commercial d’un jeu vidéo.
 - 🔮 **Projets à venir** – Exploration de thématiques liées à la **psychologie** et la **santé mentale**  
 
 
