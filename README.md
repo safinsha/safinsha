@@ -5,7 +5,6 @@
 ---
 
 ## 🚀 À propos de moi
-- 🎓 Diplômé du **bootcamp Data Analytics du Wagon** (2,5 mois intensifs)  
 - ✅ Certifié **RNCP38616 (Bac+3/4)** – Concepteur développeur en IA et analyse big data  
 - 📚 Ancien étudiant en **Mathématiques à la Sorbonne**   
 - 🧠 Passionné par les applications de la data dans la **santé** et les **sciences humaines**  
